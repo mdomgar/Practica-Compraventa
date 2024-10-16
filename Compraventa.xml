@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogo>
+    <coche>
+        <anio>2010</anio>
+        <fechaVenta/>
+        <marca>Picasso</marca>
+        <matricula>2422DSW</matricula>
+        <modelo>Xsara</modelo>
+    </coche>
+</catalogo>
